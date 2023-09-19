@@ -1,0 +1,7 @@
+Número de Pedido: 1
+Cédula del Cliente: 1140
+Hamburguesas: 2
+Bebidas: 2
+Acompañantes: 2
+Firma o Foto del Cliente: uploads/descarga.jfif
+

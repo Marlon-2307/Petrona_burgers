@@ -1,0 +1,66 @@
+/*LISTADO DE PEDIDOS*/
+
+body {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image: url('Img/burgers2.webp');
+    font-family: 'Nova Flat', cursive;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 2rem;
+}
+
+h1 {
+    text-align: center;
+    color: #fff;
+}
+h2 {
+    color: #fff;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-color: rgba(0, 0, 0, 0.8);
+    color: #fff;
+}
+
+table, th, td {
+    border: 2px solid #FFA500;
+    color: #fff;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+    color: #fff;
+}
+
+th {
+    background-color: #f4f4f4;
+    color: #fff;
+}
+
+td img {
+    max-width: 100%;
+    height: auto;
+    color: #fff;
+}
+/* Estilos para el botón de eliminar */
+input[type="submit"] {
+    background-color: #F85C13;
+    color: #fff;
+    font-size: 1rem;
+    padding: 0.5rem 0.5rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 11rem;
+    font-family: 'Nova Flat', cursive;
+}
+
